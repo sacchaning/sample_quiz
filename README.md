@@ -1,1 +1,1 @@
-# sample_quiz
+簡単ななぞなぞです。JavaBeansを使って構築しました。
